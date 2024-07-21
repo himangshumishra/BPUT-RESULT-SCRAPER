@@ -1,0 +1,113 @@
+[
+  {
+    "rollNo": "2201294112",
+    "name": "PRIYANSHU PANDA",
+    "college": "RAAJDHANI ENGINEERING COLLEGE, BHUBANESWAR",
+    "branchName": "B.Tech.(COMPUTER SCIENCE & ENGINEERING)",
+    "sgpa": "5.75"
+  },
+  {
+    "subjects": [
+      {
+        "slNo": 1,
+        "semId": "4",
+        "code": "RCN4F001",
+        "name": "Constitution of India",
+        "type": "T",
+        "credits": 0,
+        "grade": "A",
+        "points": 8
+      },
+      {
+        "slNo": 2,
+        "semId": "4",
+        "code": "RCS4C001",
+        "name": "Discrete Mathematics",
+        "type": "T",
+        "credits": 3,
+        "grade": "C",
+        "points": 6
+      },
+      {
+        "slNo": 3,
+        "semId": "4",
+        "code": "RCS4C002",
+        "name": "Design and Analysis of Algorithm",
+        "type": "T",
+        "credits": 3,
+        "grade": "F(Ex)",
+        "points": 2
+      },
+      {
+        "slNo": 4,
+        "semId": "4",
+        "code": "RCS4C003",
+        "name": "Computer Organization and Architecture",
+        "type": "T",
+        "credits": 3,
+        "grade": "C",
+        "points": 6
+      },
+      {
+        "slNo": 5,
+        "semId": "4",
+        "code": "RCS4D002",
+        "name": "Microprocessor and Microcontroller",
+        "type": "T",
+        "credits": 3,
+        "grade": "D",
+        "points": 5
+      },
+      {
+        "slNo": 6,
+        "semId": "4",
+        "code": "RCS4G002",
+        "name": "Digital Signal Processing",
+        "type": "T",
+        "credits": 3,
+        "grade": "C",
+        "points": 6
+      },
+      {
+        "slNo": 7,
+        "semId": "4",
+        "code": "ROB4E002",
+        "name": "Organisational Behaviour",
+        "type": "T",
+        "credits": 3,
+        "grade": "D",
+        "points": 5
+      },
+      {
+        "slNo": 8,
+        "semId": "4",
+        "code": "RCS4C201",
+        "name": "Problem Solving and Python Programming Laboratory",
+        "type": "P",
+        "credits": 2,
+        "grade": "A",
+        "points": 8
+      },
+      {
+        "slNo": 9,
+        "semId": "4",
+        "code": "RCS4C202",
+        "name": "Design and Analysis of Algorithms Laboratory",
+        "type": "P",
+        "credits": 2,
+        "grade": "A",
+        "points": 8
+      },
+      {
+        "slNo": 10,
+        "semId": "4",
+        "code": "RCS4C203",
+        "name": "Computer Organization and Architecture Laboratory",
+        "type": "P",
+        "credits": 2,
+        "grade": "A",
+        "points": 8
+      }
+    ]
+  }
+]
